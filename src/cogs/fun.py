@@ -127,7 +127,7 @@ class Fun(commands.Cog):
             "What is your most embarrassing song on your playlist?",
             "Have you ever pretend-deleted an app just to look busy?",
             "What is the longest you've gone without showering?",
-            "Who was your first celebrity crush?",
+            "What is the most embarrassing thing you've accidentally liked on social media?",
             "What is a secret hobby you've never told anyone about?",
             "What is the silliest thing you're afraid of?",
             "Have you ever read the terms and conditions?",
